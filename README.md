@@ -30,3 +30,5 @@ TODO - Deployment of the AMI to AWS Batch for automated testing and developer us
 
 ## Documentation
 * [Packer for EC2](https://www.packer.io/docs/builders/amazon)
+
+* [AWS ImageBuilder](https://www.youtube.com/watch?v=K5d2VdByohs) - Why not get rid of Packer and use the AWS builder?
