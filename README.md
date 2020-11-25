@@ -27,3 +27,6 @@ TODO - Deployment of the AMI to AWS Batch for automated testing and developer us
 * Make sure your CodeBuild instance S3 read/write access.
 * Make sure your CodeBuild instance has permissons set for enhanced privlidges so it can run Docker containers.
 
+
+## Documentation
+* [Packer for EC2](https://www.packer.io/docs/builders/amazon)
