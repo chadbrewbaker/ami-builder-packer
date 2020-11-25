@@ -1,7 +1,6 @@
 ## Purpose
 
-This Packer AMI Builder creates a new AMI out of the latest Amazon Linux AMI, and also provides a cloudformation template that leverages AWS CodePipeline to 
-orchestrate the entire process.
+This Packer AMI Builder creates a new AMI out of the latest Amazon Linux AMI.
 
 TODO - write a build diagram with yEd and insert it here.
 
